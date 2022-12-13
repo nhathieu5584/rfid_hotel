@@ -14,8 +14,8 @@ if (!isset($_SESSION['Admin-name'])) {
 	<link rel="stylesheet" type="text/css" href="css/manageusers.css">
 
 	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
-	<script src="https://code.jquery.com/jquery-3.6.1.js" 
-	        integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" 
+	<script src="https://code.jquery.com/jquery-3.3.1.js" 
+	        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" 
 			crossorigin="anonymous">
 	</script>
     <script type="text/javascript" src="js/bootbox.min.js"></script>
